@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm 陈涛 (chentao)
 
-<!--
-**Daymychen/Daymychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end engineer · Vue / React / Flutter**  
+I build high-quality admin panels and frontend tooling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently
+- Working on: **Art Design Pro** (Vue admin template)
+- Learning: Advanced TypeScript & design systems
+
+### 🛠 Tech
+`Vue` `React` `TypeScript` `Tailwind` `Flutter` `Node.js`
+
+---
+
+### 📂 Featured projects
+- **art-design-pro** — Vue admin template for fast productization.  
+- **form-designer** — Visual form editor (drag & drop).  
+- **ai-space** — AI module components & integrations.
+
+---
+
+### 📫 Connect
+- Email: `your.email@example.com`  
+- Blog: https://your-site.example  
+- Zhihu / Juejin / LinkedIn: @yourname
+
+<!-- Proudly built with ❤️ -->
